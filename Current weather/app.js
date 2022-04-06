@@ -4,9 +4,6 @@ const form = document.getElementById("form")
 const container = document.getElementById("container")
 // Pictures and API key
 const apiKey = "a6f922dcdd663a60627025e5586baeff"
-const coldImage = "images/noun-Cold-1819456-09adc1200x200.png"
-const hotImage = "images/hot image.png"
-const normalImage = "images/images.jfif"
 
 
 form.addEventListener("submit", async(e)=>{
